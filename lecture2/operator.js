@@ -72,8 +72,18 @@
 // let cond2 = a === 5; //false
 // console.log(" cond1 || cond2", cond1 || cond2); //true
 
-let a=6;
-let b=5;
-let cond1 = a < b; //true
-let cond2 = a === 5; //false
-console.log(" cond1 && cond2", cond1 && cond2); //false
+// let a=6;
+// let b=5;
+// let cond1 = a < b; //false
+// let cond2 = a === 5; //false
+// console.log(" cond1 || cond2", cond1 || cond2); //false
+
+// Logical NOT !
+// let a = 6;
+// let b = 5;
+// console.log("!(6<5)", !(a<b)); //true
+
+// let a = 6;
+// let b = 5;
+// console.log("!(6>5)", !(a>b)); // false
+
