@@ -62,8 +62,9 @@ for(let val of str)
     console.log("string size = ", size)
 */
 
-// For in loop
 
+// For in loop
+/*
 let student ={
     name:"suraj",
     age: 25,
@@ -74,3 +75,14 @@ let student ={
 for(let key in student){
     console.log("key=",key, "value=", student[key]);
 }
+*/
+/*
+let obj = {
+    harry: 90,
+    shubh: 45,
+    shivika: 80,
+}
+for(let a in obj){
+    console.log("marks of " + a + " are " + obj[a])
+}
+*/
