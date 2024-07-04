@@ -1,3 +1,5 @@
+/* Create a game where you start with any random game number . Ask the user to keep guessing the number until the user enters correct value */
+
 /*
 let gameNum = 25;
 let num = prompt("Guess a correct game number")
